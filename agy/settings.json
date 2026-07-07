@@ -275,23 +275,7 @@
       "sw_vers:*",
       "man:*",
       "sleep:*",
-      "git status:*",
-      "git log:*",
-      "git diff:*",
-      "git show:*",
-      "git blame:*",
-      "git ls-files:*",
-      "git rev-parse:*",
-      "git rev-list:*",
-      "git describe:*",
-      "git shortlog:*",
-      "git cat-file:*",
-      "git branch -l:*",
-      "git remote -v:*",
-      "git push --force-with-lease:*",
-      "git push * --force-with-lease:*",
-      "git push --force-if-includes:*",
-      "git push * --force-if-includes:*"
+      "git *"
     ]
   },
   "readDenylist": [
