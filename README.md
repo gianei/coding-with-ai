@@ -1,5 +1,9 @@
 # coding-with-ai
 
-A repository for coding with AI experiments and projects.
+A repository for coding with AI experiments and projects, serving as a personal source for setting up Claude Code and Antigravity (agy) on multiple computers.
 
-- Test commit for SSH commit signing verification.
+## Structure
+
+- **`claude/`**: Contains permissions (`claude/permissions/`), and scripts (like `claude-code-stacked-statusline.sh`) for setting up Claude Code.
+- **`agy/`**: Contains global settings (`agy/settings.json`), and policies (`agy/AGENTS.md`) for setting up Antigravity.
+
