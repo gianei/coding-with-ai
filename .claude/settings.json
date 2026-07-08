@@ -332,8 +332,8 @@
       "Bash(sw_vers:*)",
       "Bash(man:*)",
       "Bash(sleep:*)",
-      "Bash(git *)",
-      "Bash(./gradlew *)"
+      "Bash(git:*)",
+      "Bash(./gradlew:*)"
     ]
   }
 }
